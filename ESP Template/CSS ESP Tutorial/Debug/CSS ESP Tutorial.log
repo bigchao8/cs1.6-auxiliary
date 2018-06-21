@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\11968\downloads\[fleep][c++][css]howtomakeesp\esp template\css esp tutorial\main.cpp(139): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\11968\downloads\[fleep][c++][css]howtomakeesp\esp template\css esp tutorial\main.cpp(141): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  CSS ESP Tutorial.vcxproj -> C:\Users\11968\Downloads\[Fleep][C++][CSS]HowToMakeESP\ESP Template\Debug\CSS ESP Tutorial.exe

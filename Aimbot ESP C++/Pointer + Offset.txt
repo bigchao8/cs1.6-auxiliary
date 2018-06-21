@@ -1,0 +1,37 @@
+=======================================	Player Base
+
+
+
+4C4 ====	Health
+5DC ==	Offset
+34 == 	Offset
+B0 == 	Offset		
+
+MAT.exe+A62B94 //11362B94      = Base Address
+
+
+
+
+=======================================	Rotation
+
+
+
+
+2C8 ===	X     /   2CC == Y
+34 == 	Offset
+B0 == 	Offset	
+
+MAT.exe+A62B94 //11362B94      = Base Address
+
+
+
+
+==================================	 Player XYZ
+
+
+316 ====	X
+5DC ==	Offset
+34 == 	Offset
+B0 == 	Offset		
+
+MAT.exe+A62B94 //11362B94      = Base Address
